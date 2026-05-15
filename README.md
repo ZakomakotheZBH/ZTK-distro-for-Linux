@@ -6,4 +6,5 @@ The ZTK OS also known as ZewpolOS tech kit/kernel Is a linux distro for
 4. work or schools
 5. servers
 6. or just fun!
+   I do not know if this is finished or not so please contribute 
   
